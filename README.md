@@ -19,6 +19,8 @@ Operations leader in Toronto who builds AI systems. I took a clinical assessment
 | | |
 |---|---|
 | [**AI mechanic**](https://github.com/datumsOG/ai-mechanic) | A model picks what to read from a car's diagnostic port and diagnoses it, inside limits it cannot change. |
+| [**Sovereign**](https://github.com/datumsOG/sovereign-deid) | Strips patient identifiers from clinical records on your own server: rules first, a model only points, code removes. Synthetic data only. |
+| [**Documents that check themselves**](https://github.com/datumsOG/docs-that-check-themselves) | A claim in a document carries the command that proves it, and an auditor re-runs them all. |
 | [**Assistant**](https://blairz.ca/assistant/) | A personal assistant on my own server. Private: it holds my own data. |
 | [**The machine**](https://blairz.ca/vm/) | One server and the AI agent that works on it, under written rules. |
 
